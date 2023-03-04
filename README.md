@@ -1,6 +1,6 @@
-# Project On Sales Data
+# Project On Sales Insights
 These are data analysis projects that I've worked on using  Excel, Power BI visualization and various statistical analysis.
-To view my work with Tableau, you can see this url: https://github.com/Sandy04Rana/Data-analyst-project.git
+To view my work with Power BI, you can see this url: https://github.com/Sandy04Rana/Data-analyst-project.git
 
 # Featured
 
@@ -17,4 +17,7 @@ Most of our Revenue is in the 2018 year.
 The Pie chart at the bottom (Total Year) shows that our dip in 2017 isn't good; 
 The Total REvenue Overall and Total sales year on the right show units sold,by customers and revenue. 
 The Top revenue by customer is Electricalsara store (413.3 M). 
+
+
+
 
