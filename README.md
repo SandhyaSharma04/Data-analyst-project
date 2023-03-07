@@ -1,6 +1,6 @@
 # Project On Sales Insights
 These are data analysis projects that I've worked on using  Excel, Power BI visualization and various statistical analysis.
-To view my work with Power BI, you can see this url: https://github.com/Sandy04Rana/Data-analyst-project.git
+To view my work with Power BI, you can see this url: https://github.com/SandhyaSharma04/Data-analyst-project.git
 
 # Featured
 
